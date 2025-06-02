@@ -18,8 +18,6 @@ import folium
 from folium.plugins import HeatMap
 import pandas as pd
 
-Markdown
-
 # Análisis de Datos para AluraStoreLatam con Python
 
 Este proyecto contiene un análisis de datos realizado para el Sr. Juan, un comerciante y emprendedor, como parte de un reto propuesto por Alaura Latam. El análisis se llevó a cabo utilizando **Python** en un Jupyter Notebook llamado `AluraStoreLatam.ipynb`.
