@@ -2,21 +2,9 @@
 
 Este proyecto contiene un análisis de datos realizado para el Sr. Juan, un comerciante y emprendedor, como parte de un reto propuesto por Alaura Latam. El análisis se llevó a cabo utilizando **Python** en un Jupyter Notebook llamado `AluraStoreLatam.ipynb`.
 
-**Repositorio:** [Su repositorio -Challege1---Con-Python_AlauraLatam](https://github.com/SuUsuario/Challege1---Con-Python_AlauraLatam)
-**(Reemplace 'SuUsuario' con su nombre de usuario de GitHub)**
-
-## Librerías de Python Utilizadas
 
 El análisis se realizó utilizando las siguientes librerías de Python:
 
-```python
-import matplotlib.pyplot as plt
-import numpy as np
-from adjustText import adjust_text
-import matplotlib.ticker as mticker
-import folium
-from folium.plugins import HeatMap
-import pandas as pd
 
 Estas librerías fueron esenciales para:
 
